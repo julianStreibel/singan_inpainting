@@ -3,7 +3,7 @@
 ![dgm_poster](https://user-images.githubusercontent.com/17069602/177596909-06033766-c56b-463f-a311-24fa39cf90be.jpg)
 
 # Masking
-This video shows the creation of the loss mask and the masked image to inject. The local mean color is used for the image mask to create better performance when injecting the image on higher scales. The created loss mask has the same shape as the image mask.
+This video shows the creation of the loss mask and the masked image to inject. The local mean color is used for the image mask to create better performance when injecting the image on lower scales. The created loss mask has the same shape as the image mask.
 
 
 

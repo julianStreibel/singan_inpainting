@@ -15,6 +15,10 @@ The SinGAN can be trained on the original image with the masked loss and partial
 
 
 
+https://user-images.githubusercontent.com/17069602/177617641-44e446e8-5a35-4361-a8ad-aa35f7189efa.mp4
+
+
+
 ![singan](https://user-images.githubusercontent.com/17069602/177598485-8849222d-efc5-491c-9c4c-7d47b280694d.png)
 
 

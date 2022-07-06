@@ -7,7 +7,9 @@ This video shows the creation of the loss mask and the masked image to inject. T
 
 
 
-https://user-images.githubusercontent.com/17069602/177610534-20ede630-0e51-42ed-a579-61b70b10d666.mp4
+https://user-images.githubusercontent.com/17069602/177621021-fd269e01-088d-47df-8cfe-07ffa451ac7e.mp4
+
+
 
 
 # Inpainting with SinGAN

@@ -4,7 +4,7 @@
 
 
 # Masking
-Creating the loss mask and the masked image to inject. Local mean color is used for the masked image to create better performance when injecting the image on higher scales. This process can be seen as editing or paint-to-image task. The loss mask created has the same format of the image mask.
+This video shows the creation of the loss mask and the masked image to inject. The local mean color is used for the image mask to create better performance when injecting the image on higher scales. This process can be seen as editing or paint-to-image task. The created loss mask has the same shape as the image mask.
 
 
 https://user-images.githubusercontent.com/17069602/177582366-8254196f-8f30-4b4c-be3f-9d09440ce3df.mov

@@ -6,7 +6,9 @@
 This video shows the creation of the loss mask and the masked image to inject. The local mean color is used for the image mask to create better performance when injecting the image on higher scales. This process can be seen as editing or paint-to-image task. The created loss mask has the same shape as the image mask.
 
 
-https://user-images.githubusercontent.com/17069602/177582366-8254196f-8f30-4b4c-be3f-9d09440ce3df.mov
+
+https://user-images.githubusercontent.com/17069602/177610534-20ede630-0e51-42ed-a579-61b70b10d666.mp4
+
 
 # Inpainting with SinGAN
 The SinGAN can be trained on the original image with the masked loss and partial convolution to ignore the unwanted structures. Afterwards the downsampled version of the masked image can be injected into an higher scale generator to start the generation process.

@@ -1,6 +1,6 @@
 
 # Poster
-![poster2](https://user-images.githubusercontent.com/17069602/177578017-7f0b480a-5cb3-4ea2-b8bf-3772f0159cbb.jpg)
+![dgm_poster](https://user-images.githubusercontent.com/17069602/177596909-06033766-c56b-463f-a311-24fa39cf90be.jpg)
 
 
 # Masking

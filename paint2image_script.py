@@ -9,7 +9,6 @@ input_names = [
     "image_0011_small_edit.png"
 ]
 
-
 # predict on every scale
 for input_name in input_names:
     for scale in range(1, 10):

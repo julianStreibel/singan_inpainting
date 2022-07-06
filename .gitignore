@@ -1,4 +1,4 @@
 __pycache__/
-Output/
 imgs/
-*.png
+Output
+TrainedModels
